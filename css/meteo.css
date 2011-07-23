@@ -1,0 +1,48 @@
+/*<![CDATA[*/
+#meteoprog_1306179145 {
+background:url(../img/meteo.png) no-repeat #F9FFFA !important;	
+border-radius:10px !important;-moz-border-radius:10px !important;-webkit-border-radius:10px !important;
+margin:0 !important;border:none !important;outline:none !important;
+font-family:Arial,Tahoma,sans-serif !important;font-size:11px !important;
+width:234px !important;_width:240px !important;
+padding:3px 3px !important;
+}
+#meteoprog_1306179145 a {color:#000000 !important;text-decoration:none !important;outline:none !important;}
+.meteoprog_1306179145_error {color:#000000 !important;font-size:13px !important;line-height:14px !important;font-weight:bold !important;text-decoration:none !important;}
+#meteoprog_1306179145 .meteoprogc_1306179145 {border-bottom:1px solid #ffffff !important;padding-bottom:2px !important;}
+#meteoprog_1306179145 .last {border-bottom:none !important;}
+
+#meteoprog_1306179145 .cl{font-size:0 !important;line-height:0 !important;clear:both !important;height:1px !important;}
+
+#meteoprog_1306179145 .r1, #meteoprog_1306179145 .r2 {overflow:hidden !important;}
+#meteoprog_1306179145 .r1{height:37px !important;}
+#meteoprog_1306179145 .r2{height:25px !important;}
+
+#meteoprog_1306179145 .fh {float:left !important;overflow:hidden !important;}
+#meteoprog_1306179145 .fr {float:right !important;overflow:hidden !important;}
+
+#meteoprog_1306179145 .r1 .item1 {width:105px !important;line-height:normal !important;}
+#meteoprog_1306179145 .r1 .item1 a {white-space:nowrap !important;color:#000000 !important;font-size:13px !important;line-height:14px !important;font-weight:bold !important;text-decoration:underline !important;}
+#meteoprog_1306179145 .r1 .item1 a:hover {text-decoration:none !important;}
+
+#meteoprog_1306179145 .r1 .item2 {float: right !important; text-align: right !important;line-height:normal !important;}
+#meteoprog_1306179145 .r1 .item2 span {color:#000000 !important;font-size:28px !important;line-height:28px !important;font-weight:bold !important;padding:0 2px !important;}
+#meteoprog_1306179145 .r1 .item3 {text-align:right !important;width: 40px ! important;line-height:normal !important;}
+
+#meteoprog_1306179145 .r2 .item1 {width:38% !important;line-height:normal !important;}
+#meteoprog_1306179145 .r2 .item2 {width:38% !important;line-height:normal !important;}
+#meteoprog_1306179145 .r2 .item3 {width:24% !important;line-height:normal !important;}
+
+
+#meteoprog_1306179145 span.lbl {color:#000000 !important;font-size:10px !important;}
+#meteoprog_1306179145 p {margin:0 !important;padding:0 !important; color:#000000 !important;font-size:11px !important;}
+
+#meteoprog_1306179145_links {
+opacity: 0;	
+border-radius:10px !important;-moz-border-radius:10px !important;-webkit-border-radius:10px !important;
+margin:0 !important;margin-top:5px !important;padding-left:5px !important;border:none !important;outline:none !important;background:#ffffff !important;}
+#meteoprog_1306179145 .logo {width:70px !important;float:left !important;}
+#meteoprog_1306179145 .weather {padding-top:3px !important;float:right !important;}
+#meteoprog_1306179145 .weather a {color:#000000 !important;font-size:12px !important;font-weight:bold !important;padding-right:2px !important;text-decoration:underline !important;}
+#meteoprog_1306179145 .weather a:hover {text-decoration:none !important;}
+/*]]>*/

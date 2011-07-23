@@ -1,0 +1,11 @@
+div#page {
+	background-color: #fafaf4;
+	text-align: left;
+	}
+div#container {
+	padding: 1px;
+}
+div#ads {
+	clear: both;
+	padding: 10px 0 10px 10px;
+}

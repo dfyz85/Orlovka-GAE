@@ -1,0 +1,9 @@
+# main section
+User-agent:*
+# End of main section
+
+# Images section
+# End of images section
+
+User-agent: Yandex
+Host: http://www.sevrelax.com/
